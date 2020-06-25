@@ -1,0 +1,2 @@
+# notes
+copy some stories
